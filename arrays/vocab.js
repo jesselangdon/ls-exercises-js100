@@ -1,3 +1,5 @@
+// Given an array, log the length of each string item in the array
+
 let vocabulary = [
   ['happy', 'cheerful', 'merry', 'glad'],
   ['tired', 'sleepy', 'fatigued', 'drained'],
