@@ -1,3 +1,6 @@
+// Write code that capitalizes the words in the input string, so that 
+// the string is returned in camel case.
+
 function capitalize(str) {
 	let newString = '';
 	let strArr = str.split(' ');
