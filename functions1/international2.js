@@ -3,8 +3,11 @@ function localGreet(languageCode) {
 	let regionCode = regionSplit.split('.')[0]
 	switch (regionCode) {
 		case 'US': return 'Hi!';
+		break;
 		case 'GB': return'Hello!';
+		break;
 		case 'AU': return 'Howdy!';
+		break;
 		}
 }
 

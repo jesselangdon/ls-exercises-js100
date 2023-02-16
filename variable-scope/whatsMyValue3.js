@@ -4,4 +4,4 @@ if (true) {
 
 console.log(myValue);
 
-// reference error, because myValue is a local variable to the conditional statement
+// reference error, because myValue is a local variable within the conditional statement.

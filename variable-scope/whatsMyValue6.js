@@ -7,4 +7,4 @@ if (a > 4) {
 
 console.log(b);
 
-// should log false. 
+// should log 'false', because the let b = true statement is local only to that conditional
