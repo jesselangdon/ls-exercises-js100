@@ -1,0 +1,1 @@
+Date.now() // returns number representing number of milliseconds elapsed since the epoch (1/1/1970)

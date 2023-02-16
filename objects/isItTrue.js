@@ -1,0 +1,18 @@
+let obj = {
+  num: 42,
+  'property name': 'string value',
+  true: false,
+  fun: function() {
+    console.log('Harr Harr!');
+  },
+};
+
+for (let prop in obj) {
+  if (prop === true) {
+    console.log("It's true!");
+  }
+}
+
+// The conditional is looking to match the key with the boolean value true, when in fact 
+// it's just another string.  True should have quotes around it on line 11 to indicate it is
+// a string.

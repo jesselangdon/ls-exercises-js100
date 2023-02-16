@@ -1,0 +1,2 @@
+Array.prototype.join(); // optional single argument is the separator to be using when joining array elements
+												// not including the optional argument results in all elements being joine w/o characters between them.
