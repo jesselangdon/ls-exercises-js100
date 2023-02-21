@@ -1,3 +1,5 @@
+// log the country where Jane is located.
+
 let jane = {
   firstName: 'Jane',
   lastName: 'Harrelson',

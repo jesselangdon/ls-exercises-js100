@@ -1,3 +1,5 @@
+// Write code that lists all of the keys in the vehicle object.
+
 let vehicle = {
   manufacturer: 'Tesla',
   model: 'Model X',

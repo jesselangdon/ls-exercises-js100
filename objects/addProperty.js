@@ -1,3 +1,5 @@
+// Add two new properties to the fido object - age and favorite food.
+
 let fido = {
   name: 'Fido',
   species: 'Labrador Retriever',

@@ -1,3 +1,6 @@
+// Write code that will create a new array called nestedPerson that is a nested array
+// which stores the properties for the person object.
+
 let person = {
   title: 'Duke',
   name: 'Nukem',
@@ -7,4 +10,5 @@ let person = {
 // Expected output:
 // [['title', 'Duke'], ['name', 'Nukem'], ['age', 33]]
 
-console.log(Object.entries(person));
+let nestedPerson = Object.entries(person);
+console.log(nestedPerson);
